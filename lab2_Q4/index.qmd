@@ -1,7 +1,7 @@
 ---
 title: "lab2_Q4"
 ---
+About me
 
-This is a Quarto website.
+Hi everyone! My name is Sam Fo, and I am a MDS student at UBC. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
