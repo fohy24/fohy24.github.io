@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "lab2_Q4"
+  title: "Passion Projects made by Sam Fo :)"
   navbar:
     left:
       - href: index.qmd
