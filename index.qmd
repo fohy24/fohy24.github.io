@@ -1,22 +1,19 @@
 ---
-title: "Cool Projects"
+title: "My Projects"
 format: 
   html:
     theme: cosmo
     toc: false
     page-layout: full
 ---
-
-# My Projects
-
 Welcome to my collection of passion projects. Click on any link below to view the live dashboards!
 
 ## Featured Projects
 
 ### [Ball Python Morphs Identifier](https://huggingface.co/spaces/samfhy/ball-python-morph-identifier)
-I used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful :)
+I used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful!
 
 ### [Solar Savers](https://dsci-532-2024-9-solar-savers.onrender.com/)
-A  dashboard that shows how much you could save on energy with solar panels, especially helpful if you're in Alberta, Saskatchewan, or Manitoba, where there's tons of sunshine.
+A dashboard that shows how much you could save on energy with solar panels, especially helpful if you're in Alberta, Saskatchewan, or Manitoba, where there's tons of sunshine.
 
 ---

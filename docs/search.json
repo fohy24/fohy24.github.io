@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Cool Projects",
+    "title": "My Projects",
     "section": "",
-    "text": "Welcome to my collection of passion projects. Click on any link below to view the live dashboards!\n\n\n\n\nI used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful :)\n\n\n\nA dashboard that shows how much you could save on energy with solar panels, especially helpful if you’re in Alberta, Saskatchewan, or Manitoba, where there’s tons of sunshine."
+    "text": "Welcome to my collection of passion projects. Click on any link below to view the live dashboards!"
   },
   {
     "objectID": "index.html#featured-projects",
     "href": "index.html#featured-projects",
-    "title": "Cool Projects",
-    "section": "",
-    "text": "I used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful :)\n\n\n\nA dashboard that shows how much you could save on energy with solar panels, especially helpful if you’re in Alberta, Saskatchewan, or Manitoba, where there’s tons of sunshine."
+    "title": "My Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nBall Python Morphs Identifier\nI used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful!\n\n\nSolar Savers\nA dashboard that shows how much you could save on energy with solar panels, especially helpful if you’re in Alberta, Saskatchewan, or Manitoba, where there’s tons of sunshine."
   },
   {
     "objectID": "about.html",
