@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Connect with me"
 ---
 
-About this site
+Hi there! My name is Sam Fo and I'm passionate about incorporating data into everyday life. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/sam-fo-295b22172/)
