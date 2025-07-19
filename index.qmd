@@ -14,6 +14,6 @@ Welcome to my collection of passion projects. Click on any link below to view th
 I used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful!
 
 ### [Solar Savers🌅](https://dsci-532-2024-9-solar-savers.onrender.com/)
-A dashboard that shows how much you could save on energy with solar panels, especially helpful if you're in Alberta, Saskatchewan, or Manitoba, where there's tons of sunshine.
+A dashboard that shows how much you could save on energy with solar panels, especially helpful if you're in Alberta, Saskatchewan, or Manitoba, where there's tons of sunshine. I had to calculate all these numbers to decide if it's worth it to install solar panels for my old family house.
 
 ---
