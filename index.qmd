@@ -1,5 +1,5 @@
 ---
-title: "My Projects"
+title: "Sam's Passion Projects :)"
 format:
   html:
     theme: cosmo
