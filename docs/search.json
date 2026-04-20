@@ -4,14 +4,7 @@
     "href": "index.html",
     "title": "My Projects",
     "section": "",
-    "text": "Welcome to my collection of passion projects. Click on any link below to view the live dashboards!"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "My Projects",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nBall Python Morphs Identifier🐍\nI used to keep pet snakes, so I built a classifier model that can identify the different morphs carried by a ball python. Snakes are incredibly cute and beautiful!\n\n\nSolar Savers🌅\nA dashboard that shows how much you could save on energy with solar panels, especially helpful if you’re in Alberta, Saskatchewan, or Manitoba, where there’s tons of sunshine. I had to calculate all these numbers to decide if it’s worth it to install solar panels for my old family house."
+    "text": "Hello —\n      I’m Sam Fo.\n      I’m passionate about incorporating data into everyday life. Over on the right are a few things I’ve built because I wanted to know the answer — click through to try them live.\n      \n        \n        Connect on LinkedIn\n        →\n      \n    \n  \n\n  \n\n  Projects\n\n  \n    \n      Featured · Vision Model\n      Ball Python Morph Identifier\n      \n        I used to keep pet snakes, so I built a classifier that identifies the different morphs\n        a ball python carries from a photo. Snakes are incredibly cute and beautiful!\n      \n      \n        PyTorch\n        fastai\n        Hugging Face\n        Live\n      \n      \n        Open on Hugging Face →\n      \n    \n    \n      \n    \n  \n\n  More projects\n\n  \n\n    \n      \n      \n        Dashboard\n        Solar Savers\n        I built this while figuring out whether solar panels were worth it for my old family house — handy if you live somewhere sunny like the Prairies.\n        \n          Python\n          Dash\n          Plotly\n          Live\n        \n      \n      →"
   },
   {
     "objectID": "about.html",

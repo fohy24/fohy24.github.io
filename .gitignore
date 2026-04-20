@@ -1,1 +1,29 @@
+# Quarto
 /.quarto/
+**/*.quarto_ipynb
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Local preview scaffolding
+_preview/
+
+# Python scratch / tooling (not part of the Quarto site)
+.python-version
+pyproject.toml
+uv.lock
+main.py
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
