@@ -4,16 +4,14 @@ project:
 
 website:
   title: ""
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-
-
+    theme: none
+    toc: false
+    page-layout: full
+    anchor-sections: false
+    smooth-scroll: true
+    include-in-header:
+      - text: |
+          <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -1,21 +1,13 @@
----
-title: "Sam Fo — Passion Projects"
-pagetitle: "Sam Fo — Passion Projects"
-format:
-  html:
-    toc: false
-    page-layout: custom
-    anchor-sections: false
----
-
-```{=html}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sam Fo — Passion Projects</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
 <style>
-  /* Neutralize Quarto's default wrappers & title block */
-  #title-block-header, header.quarto-title-block { display: none !important; }
-  body { margin: 0 !important; padding: 0 !important; }
   :root {
     --bg: #f5f7fb;
     --bg-soft: #e8eff8;
@@ -305,6 +297,8 @@ format:
     100% { transform: translateX(110vw) translateY(0) rotate(0deg); }
   }
 </style>
+</head>
+<body>
 
 <header class="topbar">
   <div class="brand">sam fo &nbsp;·&nbsp; passion projects</div>
@@ -328,7 +322,7 @@ format:
     </a>
   </aside>
 
-  <div class="main">
+  <main class="main">
     <div class="section-label"><span>Featured</span></div>
 
     <article class="featured">
@@ -395,7 +389,7 @@ format:
       <span>Vancouver · 49.28°N, 123.12°W</span>
       <span>Last updated · Apr 2026</span>
     </div>
-  </div>
+  </main>
 </div>
 
 <!-- Konami code easter egg: a snake slithers across the bottom -->
@@ -419,20 +413,7 @@ format:
     else { root.setAttribute('data-theme', 'dark'); toggle.textContent = 'Light'; localStorage.setItem('sam-theme', 'dark'); }
   });
 
-  // Konami code: ↑ ↑ ↓ ↓ ← → ← → B A — unleashes a snake across the bottom
-  const konami = ['ArrowUp','ArrowUp','ArrowDown','ArrowDown','ArrowLeft','ArrowRight','ArrowLeft','ArrowRight','b','a'];
-  let idx = 0;
-  const egg = document.getElementById('snake-egg');
-  window.addEventListener('keydown', (e) => {
-    const k = e.key.length === 1 ? e.key.toLowerCase() : e.key;
-    if (k === konami[idx]) {
-      idx++;
-      if (idx === konami.length) {
-        egg.classList.add('on');
-        idx = 0;
-        setTimeout(() => egg.classList.remove('on'), 18000);
-      }
-    } else { idx = (k === konami[0]) ? 1 : 0; }
-  });
 </script>
-```
+
+</body>
+</html>
