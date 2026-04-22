@@ -333,7 +333,7 @@ format:
 
     <article class="featured">
       <div class="featured-content">
-        <div class="featured-eyebrow">Vision Model &nbsp;·&nbsp; 2024</div>
+        <div class="featured-eyebrow">Vision Model &nbsp;·&nbsp; 2025</div>
         <h2>Ball Python<br>Morph Identifier</h2>
         <p class="featured-desc">
           I had kept pet snakes for over ten years, so I built a classifier that identifies
@@ -378,7 +378,7 @@ format:
       <a class="project-row" href="https://fohy24.github.io/mr-right/" target="_blank" rel="noopener">
         <div class="row-thumb"><img src="images/thumbnail3.png" alt="Dream Partner Calculator"></div>
         <div class="row-body">
-          <div class="row-eyebrow">Statistical Toy · 2023</div>
+          <div class="row-eyebrow">Statistical Toy · 2026</div>
           <div class="row-title">Dream Partner Calculator</div>
           <p class="row-desc">I was curious how unrealistic my friends' criteria on their dream partner really were, so I built a calculator that estimates how many random people you'd have to meet to find one. Results are devastating but statistically rigorous.</p>
           <div class="row-meta">
