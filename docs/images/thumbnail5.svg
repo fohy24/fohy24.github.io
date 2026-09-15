@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Exam answer feedback thumbnail concept">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e9f1fc"/><stop offset="1" stop-color="#cce3f3"/></linearGradient><filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#18375d" flood-opacity=".15"/></filter></defs>
+  <rect width="320" height="210" rx="18" fill="url(#bg)"/><circle cx="286" cy="28" r="58" fill="#2fb6c8" opacity=".12"/>
+  <rect x="29" y="17" width="262" height="176" rx="12" fill="#fff" filter="url(#shadow)"/>
+  <text x="47" y="43" fill="#58708d" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">PAPER 2 · QUESTION 4</text>
+  <path d="M47 57h210" stroke="#e1eaf4"/>
+  <text x="47" y="79" fill="#102744" font-family="Arial,sans-serif" font-size="13" font-weight="700">Explain how a price ceiling</text><text x="47" y="97" fill="#102744" font-family="Arial,sans-serif" font-size="13" font-weight="700">can create a shortage.</text>
+  <rect x="47" y="112" width="148" height="8" rx="4" fill="#dce6f2"/><rect x="47" y="112" width="119" height="8" rx="4" fill="#79a8e2"/>
+  <circle cx="54" cy="139" r="6" fill="#22a06b"/><path d="m51 139 2 2 4-5" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="67" y="143" fill="#49627f" font-family="Arial,sans-serif" font-size="10">Shortage explained</text>
+  <circle cx="54" cy="161" r="6" fill="#22a06b"/><path d="m51 161 2 2 4-5" fill="none" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/><text x="67" y="165" fill="#49627f" font-family="Arial,sans-serif" font-size="10">Marking point matched</text>
+  <rect x="218" y="128" width="54" height="45" rx="9" fill="#eef4fc"/><text x="245" y="148" text-anchor="middle" fill="#1d5bbf" font-family="Arial,sans-serif" font-size="17" font-weight="700">3/4</text><text x="245" y="163" text-anchor="middle" fill="#7187a2" font-family="Arial,sans-serif" font-size="8" letter-spacing="1">EST. MARK</text>
+</svg>
