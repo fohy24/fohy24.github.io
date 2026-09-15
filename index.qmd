@@ -375,6 +375,23 @@ format:
     <div class="section-label more"><span>More projects</span></div>
 
     <div class="projects">
+      <a class="project-row" href="https://huggingface.co/spaces/samfhy/hkdse-economics" target="_blank" rel="noopener">
+        <div class="row-thumb"><img src="images/thumbnail5.svg" alt="HKDSE Economics Paper 2 answer feedback"></div>
+        <div class="row-body">
+          <div class="row-eyebrow">Education · 2026</div>
+          <div class="row-title">HKDSE Economics</div>
+          <p class="row-desc">I built an experimental practice tool that estimates HKDSE Economics Paper 2 marks, shows evidence for each criterion, and suggests how to improve each answer.</p>
+          <div class="row-meta">
+            <span class="tag">Python</span>
+            <span class="tag">Gradio</span>
+            <span class="tag">RAG</span>
+            <span class="tag">Hugging Face</span>
+            <span class="status">Live</span>
+          </div>
+        </div>
+        <span class="row-arrow">&rarr;</span>
+      </a>
+
       <a class="project-row" href="https://fisheries-2023.sites.olt.ubc.ca/files/2024/09/2024-01-Working-Paper-Price-Prediction.pdf" target="_blank" rel="noopener">
         <div class="row-thumb"><img src="images/thumbnail4.png" alt="Affordable Seafood Under Climate Change"></div>
         <div class="row-body">
@@ -424,22 +441,6 @@ format:
         <span class="row-arrow">&rarr;</span>
       </a>
 
-      <a class="project-row" href="https://huggingface.co/spaces/samfhy/hkdse-economics" target="_blank" rel="noopener">
-        <div class="row-thumb"><img src="images/thumbnail5.svg" alt="HKDSE Economics Paper 2 answer feedback"></div>
-        <div class="row-body">
-          <div class="row-eyebrow">Education · 2026</div>
-          <div class="row-title">HKDSE Economics</div>
-          <p class="row-desc">I built an experimental practice tool that estimates HKDSE Economics Paper 2 marks, shows evidence for each criterion, and suggests how to improve each answer.</p>
-          <div class="row-meta">
-            <span class="tag">Python</span>
-            <span class="tag">Gradio</span>
-            <span class="tag">RAG</span>
-            <span class="tag">Hugging Face</span>
-            <span class="status">Live</span>
-          </div>
-        </div>
-        <span class="row-arrow">&rarr;</span>
-      </a>
     </div>
 
     <div class="foot">
